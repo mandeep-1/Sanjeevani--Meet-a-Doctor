@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<application name="MeetADoc 20210409.135721" description="" >
+	<cardir name="customer" order="1"/>
+	<parfile name="MeetaDoc_dbconfig.jar" order="2" dbconfig="true" />
+	<sarfile name="MeetaDoc_schema.jar" order="3"/>
+	<parfile name="MeetaDoc_rules.jar" order="4"/>
+</application>

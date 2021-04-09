@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-05-04
+Pega-Codeset-Version: 06-01-01
+ArtifactName: MeetADoc
+Synchronizable: false
+ArtifactVersion: 20210409.135721
+Type: Product
+Product-Creation-Date: 2021-Apr-09 00:00:00
+Version: 20210409.135721
+PRPC-Engine: 8.5.3 PRPC-8.5.3-551 ()
+Operator: bs17btcs051@eternaluniversity.edu.in
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: MeetADoc
+Archive-Type: PegaArchive
+Export-Date: 2021-Apr-09 14:04:02
+Pega-Codeset-Name: Customer
+Instance-Count: 4072
+
+Name: FileMetadata
+
+Name: customer/
+Pega-Codeset-Version: 06-01-01
+Pega-Codeset-Name: customer
+
